@@ -1,0 +1,15 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+input {
+	height: 2rem;
+	vertical-align: middle;
+}
+button {
+	height: 2.4rem;
+	vertical-align: middle;
+}
